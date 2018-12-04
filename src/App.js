@@ -8,7 +8,9 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          
           <p>
+            <h2>Docker-React App</h2>
            Hi there, this is my react app. Yeah, This is fun. And I have been Changed
           </p>
           <a
